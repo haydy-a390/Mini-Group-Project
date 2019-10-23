@@ -1,8 +1,23 @@
 # Mini-Group-Project
 ## Part 1 
-## Part 2
-# Part 3 
 
+## Part 2
+ - Repository
+ - Clone
+ - Fork
+ - Branch
+ - Commit
+ - Merge
+ - Checkout
+ - Push
+ - Pull 
+ - Remote Add 
+ - Remote Remove
+ - Remote Show
+ - Status
+ - Master Branch
+  
+## Part 3 
 #step one: Go to https://github.com
 #step two: Create your personal account by entering your personal details 
 #step three:To begin working on Github you need to create a project repository.
@@ -15,4 +30,3 @@
 #step ten: Edit the repository by clicking the edit pen icon 
 #step eleven: Once you are done adding to the README. file, scroll down the page and click on the propose file changes button 
 #step tweleve: From there the changes are commited and the owner of the code must pull the request 
-
