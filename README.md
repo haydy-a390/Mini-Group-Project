@@ -30,3 +30,10 @@
  - step ten: Edit the repository by clicking the edit pen icon  
  - step eleven: Once you are done adding to the README. file, scroll down the page and click on the propose file changes button 
  - step tweleve: From there the changes are commited and the owner of the code must pull the request 
+ 
+ 1. Forking vs Cloning
+  - Forking is when you request GitHub to clone the project and then Github registers it under your username 
+
+2. Pull Request
+
+3.  Adding a collaborator to a Github Repo.
