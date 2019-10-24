@@ -2,6 +2,8 @@
 ## Part 1 
 
 ## Part 2
+### Gitflow Workflow
+
  - **Repository:** It is like a "project" and contains all the project files as well as the documentation behind it. It stores every revision made on a file, creating a detailed history for every repository made. It can contain many collaborators and can be either public or private.
  - **Clone:** This command makes a copy of the repository that is located on your computer. The user can edit the files and use Git to keep track of the changes made without having to be online. It is connected to the remote version so that changes can be synced between the two or the user can push local changes to the remote to keep them synched when they're online.
  - **Fork:** Is a command that makes a personal copy of another user's repository and moving it to the user's own account. It allows the user to make changes without affecting the original copy of the program. Forks are always still connected to the original repository so the user can submit a pull request to the original user to add your changes.
@@ -10,12 +12,14 @@
  - **Merge:** A merge is when you take the branch you are currently working on and combine it with another branch.
  - **Checkout:** A GitHub command used to switch branches in a repository.
  - **Push:** When you send your committed changes to a remote repository on GitHub.
+   - *For example, you work on a repository and work on it, changing a couple of things. First you have to commit these changes and include a message if you would like. Then, you have to push the changes so that other users can have access to them.*
  - **Pull:** When you are bringing in changes and merging them.
  - **Remote Add:** Adds a new remote. It takes two arguments: a remote name and a remote URL. Git remote connects the user's local repository to the remote server.
  - **Remote Remove:** Removes a remote along with any remote-tracking branches and configuration settings associated with that remote.
  - **Remote Show:** This command displays information about the remote name.
  - **Status:** A status is a type of status check that are external processes which then run for each commit the user makes in a repository. Status checks allow the user to know if their commits match the condition set for the repository that they are contributing to. The result of a status check can be pending, passing, or failing.
  - **Master Branch:** The default branch that should always contain the most currently updated version of code. Before you code, you have to pull the master branch because it contains the latest update of the coding project.
+   
   
 ## Part 3 
 #step one: Go to https://github.com
