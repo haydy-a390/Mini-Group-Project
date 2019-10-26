@@ -1,6 +1,62 @@
 # Mini-Group-Project
 ## Part 1 
 
+**Cd**: The cd command will allow you to change directories. 
+-This is used to go into directories or files. 
+-This is done by typing cd space the file you want to go into and pressing enter. 
+ 
+**mkdir**: The mkdir command in UNIX allows users to create directories or folders as they are referred to in some operating systems. (can create multiple). 
+-This is used to create a directory or folder to can contain files and etc. This is used to create a folder in the computer drive for storage of files. 
+-This is done by typing mkdir space directory name and pressing enter. 
+ 
+**Cp**: This command is used to copy files or group of files or directory. 
+-This is used to copy files and for directories, a simple file and other features. 
+-The features and synopsis is
+(Synapsys types: cp [-R [-H | -L | -P]] [-fi | -n] [-apvX] source_file target_file	
+cp [-R [-H | -L | -P]] [-fi | -n] [-apvX] source_file)
+ 	(Types: -v, -X, -c, -R, -p, -P, -n, -L, -i, -H, -f, -a)
+ 
+**Pwd**: The pwd command is one of the most frequently used commands by Linux system administrators. 
+-This is used to see which directory you are in. 
+-This is used to see which directory you are in before starting to move things around so you don’t lose track of your location. To do this you must simply type pwd and press enter.
+ 
+**Mv**: The mv command is a command-line utility that moves files or directories from one place to another. 
+-This is used to move files or directories from one place to another. 
+-This is done by typing mv space source.
+(Synopsis: mv [-f | -i | -n] [-v] source target
+mv [-f | -i | -n] [-v] source ... directory)
+ (Types: -v, -n, -i, -f)
+ 
+**Rm**: rm command is used to remove objects such as files, directories, symbolic links and so on from the file system like UNIX. 
+-This is used to removes unwanted files or directories. 
+-This is done by typing rm space (types) file name 
+(Synopsis: rm [-dfiPRrvW])
+(Types: -d, -f, -i,-P, -R, -r, -v, -W )
+ 
+**History**: In Linux, there is a very useful command to show you all of the last commands that have been recently used. The command is simply called history, but can also be accessed by looking at your home folder. 
+This is used to see what commands the user typed previously and can scroll through them by using the up and down arrow. 
+This is done by typing history in the terminal and it will appear. 
+
+**Home directory and ~**: A home directory, also called a login directory, is the directory on Unix-like operating systems that serves as the repository for a user's personal files, directories and programs. It is also the directory that a user is first in after logging into the system. The tilde (~) is a Linux "shortcut" to denote a user's home directory. Thus tilde slash (~/) is the beginning of a path to a file or directory below the user's home directory. 
+-This is used to go back to your pc home user (basically your desktop). Home directory (cd) and cd ~ bring you to the computer’s home directory which is under user/username. 
+-This is done by typing cd or cd ~
+ 
+**file paths in Linux**: PATH is an environmental variable in Linux and other Unix-like operating systems that tells the shell which directories to search for executable files (i.e., ready-to-run programs) in response to commands issued by a user. 
+-This is used to speed up the process of entering URLs or files. 
+-This is done by the drag and drop method. 
+ 
+**Using the tab key to complete file paths**: By pressing tab after typing in a few keys it will automatically open up the first matched file. For example, let’s say you want to run the firefox command. You can just type fir or fire into the terminal and press Tab — if your system doesn’t have any other commands that begin with those letters, Bash will automatically fill in firefox and you can press Enter to run the command. If you press tab twice it will give you options that start with the characters typed. 
+-This is used to speed up the process of the command, URL or files on the PC.
+-This is done by typing the initial of the command, URL, or file and pressing tab to complete the task. 
+ 
+**Using up and down arrow for history**: The up arrow key allows you to see the previous characters typed in history and allows you to use them instead of repeating. Same with the down key instead of previous it shows the line after.
+-This is used to go through the history of commands written previously
+-This is done by pressing up and down to scroll through the previous commands.
+ 
+
+
+
+
 ## Part 2
 
  - **Repository:** It is like a "project" and contains all the project files as well as the documentation behind it. It stores every revision made on a file, creating a detailed history for every repository made. It can contain many collaborators and can be either public or private.
