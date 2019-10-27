@@ -59,6 +59,9 @@ This is done by typing history in the terminal and it will appear.
 
 ## Part 2 (Haydy Abdalla)
 
+### Gitflow workflow:
+![](Images/Photo1.PNG)
+
  - **Repository:** It is like a "project" and contains all the project files as well as the documentation behind it. It stores every revision made on a file, creating a detailed history for every repository made. It can contain many collaborators and can be either public or private.
    - *For example, if you want to work on a new project, go to github.com and click "create a new repository." Then, create a name, choose a license, and format it as needed as per the requirements of the project*
    
@@ -69,13 +72,17 @@ This is done by typing history in the terminal and it will appear.
    
  - **Branch:**  It is a separate copy of the program that is a parallel version of a repository. It allows the user to work on a copy of the program with the assurance that the master branch is not messed with. Afterwards, once the required or needed additions are made, the user can merge the branch they are currently working on with the master branch. By creating a branch, you are creating a copy of the master branch and thus using the latest version saved onto the master branch.
     - *You are working on a project with other people on github. The creator of the repository will have access to the master branch and any changes they make will go straight to it. However other members working on the project will have to create another branch and work on the project from there.*
+
+![](Images/Photo4.PNG)
     
  - **Commit:** A commit is a change or revision to a file(s). Everytime you commit something, it creates a unique id that allows the user to keep track of the changes that were or are being made and by whom and when. It contains a comment section (commit message) that is a short description about the changes made. 
     - *You are working on a project on github, and make some changes. You will scroll down and click the green "commit" button to save your edits. Before you do so, you can also add a message to describe the changes you've made to the project. With every commit, a history log is created with a different id to keep track of the changes being made including information such as by whom and when.*
     
  - **Merge:** A merge is when you take the branch you are currently working on and combine it with another branch.
     - *For example, you are the leader of a project on github. When your group members make changes, it will not go directly to the master branch. They must first send in a pull request, which you must accept, and then merge their changes with the master branch version of the project.*
-    
+
+![](Images/Photo5.png)
+
  - **Checkout:** A GitHub command used to switch branches in a repository.
     
  - **Push:** When you send your committed changes to a remote repository on GitHub.
