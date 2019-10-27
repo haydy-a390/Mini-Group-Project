@@ -57,7 +57,7 @@ This is done by typing history in the terminal and it will appear.
 
 
 
-## Part 2
+## Part 2 (Haydy Abdalla)
 
  - **Repository:** It is like a "project" and contains all the project files as well as the documentation behind it. It stores every revision made on a file, creating a detailed history for every repository made. It can contain many collaborators and can be either public or private.
    - *For example, if you want to work on a new project, go to github.com and click "create a new repository." Then, create a name, choose a license, and format it as needed as per the requirements of the project*
@@ -94,7 +94,12 @@ This is done by typing history in the terminal and it will appear.
     
  - **Master Branch:** The default branch that should always contain the most currently updated version of code. Before you code, you have to pull the master branch because it contains the latest update of the coding project.
     - *When you create a new repository, any changes you make by default will go to the master branch. If you are working on a forked version of the proejct or have created another branch, then none of your chnages will be added to the master branch by default. You must first commit your changes, create a pull request, then the leader must merge both version, original and edited, together to get the updated version of the project.*
-   
+### Sources Used: 
+https://help.github.com/en/github/getting-started-with-github/github-glossary
+https://www.coredna.com/blogs/what-is-git-and-github-part-two
+https://linuxacademy.com/blog/linux/git-terms-explained/
+https://help.github.com/en/github/using-git/adding-a-remote
+
   
 ## Part 3 (Paulina Ortiz)
  - step one: Go to https://github.com
